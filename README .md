@@ -39,7 +39,9 @@ Once connected, you can start typing messages in the terminal. These messages wi
 ## Example Interaction
 
 1.Start the server in one terminal.
+
 2.Connect multiple clients in separate terminals.
+
 3.Send messages from any client and observe them being broadcast to all others.
 
 
